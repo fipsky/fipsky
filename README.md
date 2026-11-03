@@ -2,14 +2,8 @@
 
 Automation & API engineer — Python, bots & tooling.
 
-## 📊 Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=fipsky&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fipsky&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![Views](https://komarev.com/ghpvc/?username=fipsky&color=58A6FF&style=flat)
+[![Followers](https://img.shields.io/github/followers/fipsky?style=flat&color=58A6FF&label=Followers)](https://github.com/fipsky?tab=followers)
 
 ## 🛠️ Stack
 
