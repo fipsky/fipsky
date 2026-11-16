@@ -47,11 +47,16 @@ Repo utamanya private, jadi badge-nya statis — isinya nyata, bukan tempelan.
 ## 🏅 Achievements
 
 <a href="https://github.com/fipsky?tab=achievements&achievement=arctic-code-vault-contributor">
-  <img src="dist/arctic-code-vault.png" width="72" height="72" alt="Arctic Code Vault Contributor" />
+  <img src="dist/arctic-code-vault.png" width="72" height="72" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
+</a>
+<a href="https://github.com/fipsky?tab=achievements&achievement=quickdraw">
+  <img src="dist/quickdraw.png" width="72" height="72" alt="Quickdraw" title="Quickdraw" />
 </a>
 
 **Arctic Code Vault Contributor** — kode yang ikut diarsipkan GitHub Arctic World Archive, Svalbard (Arctic Code Vault, 2020).
-[Detail →](https://github.com/fipsky?tab=achievements&achievement=arctic-code-vault-contributor)
+**Quickdraw** — menutup issue/pull request dalam waktu kurang dari 5 menit setelah dibuka.
+
+[Semua achievement →](https://github.com/fipsky?tab=achievements)
 
 ## 🐍 Contributions
 
