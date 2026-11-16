@@ -6,6 +6,7 @@ Automation & API engineer — Python, bots & tooling.
 [![Followers](https://img.shields.io/github/followers/fipsky?style=flat-square&color=58A6FF&label=followers)](https://github.com/fipsky?tab=followers)
 ![Status](https://img.shields.io/badge/status-online-3fb950?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-automation%20%C2%B7%20API%20research-58A6FF?style=flat-square)
+[<img src="dist/arctic-code-vault.png" height="20" alt="Arctic Code Vault Contributor" />](https://github.com/fipsky?tab=achievements&achievement=arctic-code-vault-contributor)
 
 ## 🛠️ Stack
 
@@ -42,6 +43,15 @@ Repo utamanya private, jadi badge-nya statis — isinya nyata, bukan tempelan.
 **Infra**
 ![vps-code-backup](https://img.shields.io/badge/vps--code--backup-otomatis-8B949E?style=flat-square)
 ![hermes-cron-jobs](https://img.shields.io/badge/hermes--cron--jobs-scheduler-8B949E?style=flat-square)
+
+## 🏅 Achievements
+
+<a href="https://github.com/fipsky?tab=achievements&achievement=arctic-code-vault-contributor">
+  <img src="dist/arctic-code-vault.png" width="72" height="72" alt="Arctic Code Vault Contributor" />
+</a>
+
+**Arctic Code Vault Contributor** — kode yang ikut diarsipkan GitHub Arctic World Archive, Svalbard (Arctic Code Vault, 2020).
+[Detail →](https://github.com/fipsky?tab=achievements&achievement=arctic-code-vault-contributor)
 
 ## 🐍 Contributions
 
